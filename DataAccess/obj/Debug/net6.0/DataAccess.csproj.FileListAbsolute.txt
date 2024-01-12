@@ -1,0 +1,17 @@
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\DataAccess.runtimeconfig.json
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\DataAccess.dll
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\Entities.dll
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\bin\Debug\net6.0\Entities.pdb
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.dll
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\DataAccess.genruntimeconfig.cache
+C:\Users\BURAK\source\repos\OnlineQuiz\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
